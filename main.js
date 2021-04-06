@@ -1,7 +1,4 @@
 
-
-
-
 let num = 0;
 let respuesta = "";
 
